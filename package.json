@@ -80,7 +80,7 @@
     "@typescript-eslint/parser": "6.6.0",
     "@vitest/coverage-v8": "1.4.0",
     "eslint": "8.48.0",
-    "eslint-config-prettier": "9.0.0",
+    "eslint-config-prettier": "9.1.0",
     "husky": "8.0.3",
     "prettier": "3.0.3",
     "release-it": "16.1.5",
