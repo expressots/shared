@@ -76,7 +76,7 @@
     "@types/jest": "29.5.13",
     "@types/node": "20.14.10",
     "@typescript-eslint/eslint-plugin": "8.25.0",
-    "@typescript-eslint/parser": "8.25.0",
+    "@typescript-eslint/parser": "8.44.1",
     "chalk": "4.1.2",
     "eslint": "8.57.0",
     "eslint-config-prettier": "10.0.2",
